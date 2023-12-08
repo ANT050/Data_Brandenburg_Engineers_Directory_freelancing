@@ -1,0 +1,1 @@
+![GitHub](https://img.shields.io/github/license/ANT050/Data_Brandenburg_Engineers_Directory_freelancing?color=green&label=MIT%20License)
